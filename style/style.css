@@ -34,7 +34,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0 200px;
+    margin: 0 230px;
 }
 nav ul{
     display: flex;
@@ -73,5 +73,5 @@ nav li a {
 .banner{
     display: flex;
     justify-content: space-between;
-    margin: 0 35px 0 250px;
+    margin: 0 35px 0 230px;
 }
